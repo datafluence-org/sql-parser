@@ -8,11 +8,11 @@
 		<version>3.0.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.dataconfluence</groupId>
+	<groupId>com.datafluence</groupId>
 	<artifactId>sql-parser</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>sql-parser</name>
-	<description>SQL Parser for dataconfluence</description>
+	<description>SQL Parser engine for Datafluence Metricart</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>

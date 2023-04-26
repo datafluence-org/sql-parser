@@ -1,4 +1,4 @@
-package com.dataconfluence.sqlparser;
+package com.datafluence.sqlparser;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
